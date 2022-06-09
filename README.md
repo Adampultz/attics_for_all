@@ -1,1 +1,1 @@
-# attics_for_all
+SuperCollider code for the performance "attics for all, floors for none"
